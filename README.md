@@ -2,7 +2,7 @@
 
 Public download-only repository for Lumora Windows builds.
 
-This repository intentionally contains **no Lumora application source code**. It exists so the signed-test installer can be downloaded without exposing the private development repository.
+This repository intentionally contains **no Lumora application source code**. It exists so the test installer can be downloaded without exposing the private development repository.
 
 ## Windows installer
 
